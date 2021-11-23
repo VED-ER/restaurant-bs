@@ -2,7 +2,7 @@
 
 A fully responsive static site.
 
-Live Site URL: [carded-bs](https://ved-er.github.io/carded-bs/)
+Live Site URL: [restaurant-bs](https://ved-er.github.io/restaurant-bs/)
 
 
 ## Built with
@@ -13,7 +13,8 @@ Live Site URL: [carded-bs](https://ved-er.github.io/carded-bs/)
 
 
 ## Screenshot
-![_C__Users_Vedran_Desktop_coding_finished_carded-bs_index html (1)](https://user-images.githubusercontent.com/92994473/143074738-31e97535-63f6-4fa3-8fe9-5de6a65f8833.png)
+![Your Favourite Restaurant 11-23-2021 7-07-27 PM](https://user-images.githubusercontent.com/92994473/143080237-72be88ed-41ff-44ac-9f77-8e11b305cf0d.png)
+
 
 
 ### Note:
