@@ -1,0 +1,122 @@
+.nav-bg{
+    background-color: #fff;
+}
+
+#hero-section{
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+#about,#howitworks,#menu,#app,#call{
+    padding: 100px 0;
+}
+
+.btn-bg{
+    background-image: url('../images/logowave.svg');
+    background-repeat: no-repeat;
+}
+
+.patt{
+    top: 0;
+    left: 10%;
+}
+
+.right-part{
+    background-color: #35b8be; 
+    background-image: url('../images/last2.svg');
+    background-repeat: no-repeat; 
+    background-position:left center; 
+    background-size: 130%; 
+    height: 600px;
+}
+
+.left-part{
+    background-image: url('../images/last1.png');
+    background-position: 50% 50%; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+@media screen and (max-width:992px){
+    .left-part,.right-part{
+        height: 400px;
+    }
+}
+
+@media screen and (max-width:768px){
+    .left-part,.right-part{
+        height: 300px;
+    }
+}
+
+.line{
+    margin-top: 135px; 
+    width: 100%; 
+    height: 2px; 
+    border-style: dashed; 
+    border-width: 2px; 
+    border-color: #d1cdcd;
+}
+
+.border-clr{
+    border-color: rgba(53, 184, 190, 0.15) !important;
+}
+
+input[type=submit],input[type=number]{
+    border: 1px solid #ddd;
+    border-radius: .4rem;
+}
+
+@media screen and (max-width:992px){
+    .line{
+        width: 2px;
+        height: 100%;
+        margin-top: 0;
+        padding-top: 100px;
+    }
+
+}
+
+.tab-pic{
+    width: 120px;
+    border-radius: .3rem !important;
+}
+
+.tab-btn{
+    color: #000;
+    border-color: rgba(97, 114, 131, 0.2);
+}
+
+.tab-btn:hover,.tab-btn:focus,.tab-btn:active{
+    color: #fff;
+    background-image: url('../images/logowave.svg');
+    background-repeat: no-repeat;
+}
+
+
+@media screen and (min-width:576px){
+    .tab-pic{
+        width: 100%;
+        max-width: 285px;
+    }
+}
+
+@media screen and (max-width:576px){
+    .tab-pic{
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:768px){
+    .tab-pic{
+        width: 190px;
+        border-radius: .3rem !important;
+    }
+}
+@media screen and (min-width:992px){
+    .tab-pic{
+        width: 120px;
+        border-radius: .3rem !important;
+    }
+}
